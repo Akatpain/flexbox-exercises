@@ -10,6 +10,8 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    justify-content: space-evenly;
     /*Add your code here*/
 }
 
@@ -22,5 +24,6 @@ nav a:visited {
     padding: .5em;
     display: inline-block;
     text-decoration: none;
+    
 }
 
