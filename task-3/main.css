@@ -11,6 +11,9 @@ body {
     border-radius: .5em;
     width: 400px;
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     /*Add your code here*/
 }
 
